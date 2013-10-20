@@ -1,3 +1,4 @@
 
 
-print 'Hey, Github'
+if __name__ == '__main__':
+    print 'Hey, Github'
